@@ -1,19 +1,14 @@
-# tictactoe
+## Tic-tac-toe
 
-## Project setup
-```
-npm install
-```
+Trabalho em progresso (Work in progress)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Projeto feito em Vuejs
 
-### Compiles and minifies for production
-```
-npm run build
-```
+![Screenshot do projeto](./Screenshot.png)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Recursos usados para aprendizado
+
+-  Animações com vuejs (transition com animate.css)
+-  Css Grid
+-  Vuejs3
+-  Vuex
